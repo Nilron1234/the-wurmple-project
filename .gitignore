@@ -1,7 +1,9 @@
 # Data folders
 data/raw/*
 !data/raw/README.md
-!data/raw/wurmple_evolutions.csv # Explicityly tracked file.
+
+# Explicitly tracked file.
+!data/raw/wurmple_evolutions.csv
 
 data/interim/*
 !data/interim/README.md
